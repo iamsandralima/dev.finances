@@ -90,7 +90,7 @@ const DOM = {
       <td class="date">${transaction.date}</td>
       <td>
           <img onclick="Transaction.remove(${index})" 
-          src="https://iamsandralima.github.io/dev.finances/Finances| Rocketseat/assets/minus.svg" alt="Remover transação">
+          src="https://iamsandralima.github.io/dev.finances/assets/minus.svg" alt="Remover transação">
       </td>
       `
 
